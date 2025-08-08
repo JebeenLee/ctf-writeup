@@ -41,7 +41,6 @@ docker network rm <네트워크 ID 앞 12자리>
 - 정규식
 - XSS
     - 에서 #의 의미
-    - [Front End Vulnerabilities](https://www.notion.so/Front-End-Vulnerabilities-21bbdeddcfd880c185cfd46cb834df46?pvs=21)
 - SSRF
 
 ## 코드분석
