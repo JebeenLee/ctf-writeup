@@ -1,2 +1,6 @@
-# CTF
-CTF 풀이 정리
+# 보안 공부
+ CTF
+ 
+ tryhackme
+
+등등 
