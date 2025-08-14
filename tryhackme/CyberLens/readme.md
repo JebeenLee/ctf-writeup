@@ -74,15 +74,15 @@ Nmap done: 1 IP address (1 host up) scanned in 69.22 seconds
 
 ## 2. 61777 포트 접속
 
-![스크린샷 2025-08-07 002840.png](attachment:9a1847ff-01b4-4c17-be06-7a224dabd64c:스크린샷_2025-08-07_002840.png)
+![스크린샷 2025-08-07 002840.png](./images/CyberLens_screenshot3.png)
 
 - Apache Tika 1.17 Server임을 확인
 
 ### 2-1. exploit-db 확인
 
-![스크린샷 2025-08-07 002951.png](attachment:2b7c4162-b17f-45d2-984a-c26f2e62fb01:스크린샷_2025-08-07_002951.png)
+![스크린샷 2025-08-07 002951.png](./images/CyberLens_screenshot5.png)
 
-[CVE-2018-1335 (1)](https://www.notion.so/CVE-2018-1335-1-24df804c5aa2805e85c9c31ae8b53ba0?pvs=21)
+[CVE-2018-1335](https://www.notion.so/CVE-2018-1335-1-24df804c5aa2805e85c9c31ae8b53ba0?pvs=21)
 
 ## 3. Metasploit을 이용한 reverse shell 획득
 
